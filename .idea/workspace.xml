@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e246d1a-0bf9-457d-a243-1af94ff4a542" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cCya9PYtrjZOR0o6OQ9yc6UOxS" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\jquery-projects\ipda3\oops\html" />
+      <recent name="E:\projects\jquery-projects\ipda3\oops\css\pages" />
+      <recent name="E:\projects\jquery-projects\ipda3\oops\css\prety-checkbox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\jquery-projects\ipda3\oops\css\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e246d1a-0bf9-457d-a243-1af94ff4a542" name="Default Changelist" comment="" />
+      <created>1590046930202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590046930202</updated>
+      <workItem from="1590046931908" duration="4233000" />
+      <workItem from="1590061899007" duration="27347000" />
+      <workItem from="1590158622761" duration="16754000" />
+      <workItem from="1590189441154" duration="48000" />
+      <workItem from="1590221318344" duration="7721000" />
+      <workItem from="1590246169688" duration="12757000" />
+      <workItem from="1590386780580" duration="34059000" />
+      <workItem from="1590482047913" duration="23821000" />
+      <workItem from="1590580771957" duration="19151000" />
+      <workItem from="1590729077091" duration="31180000" />
+      <workItem from="1590838731723" duration="2588000" />
+      <workItem from="1590903192814" duration="8443000" />
+      <workItem from="1590948804130" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
